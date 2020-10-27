@@ -17,3 +17,10 @@ It detects the official locations via:
 This code has an open license (and also probably the projects that use
 the code), but misrepresenting the author of a project is another
 matter and not allowed!  We aim to make that easy.
+
+
+License
+-------
+
+This package, *except* for the logo icon itself, is licensed under the
+CC-BY.  Currently, no comment is made on the logo.
