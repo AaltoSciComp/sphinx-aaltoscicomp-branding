@@ -16,7 +16,17 @@ It detects the official locations via:
 
 This code has an open license (and also probably the projects that use
 the code), but misrepresenting the author of a project is another
-matter and not allowed!  We aim to make that easy.
+matter and not allowed!  We aim to make it easy to satisfy that.
+Derivative works should cite original source and briefly explain what
+is different.
+
+
+
+See also
+--------
+
+https://github.com/AaltoSciComp/aalto-scicomp-graphics
+
 
 
 License
