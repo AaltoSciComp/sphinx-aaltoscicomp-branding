@@ -22,6 +22,20 @@ is different.
 
 
 
+Usage
+-----
+
+``requirement.txt``::
+
+  https://github.com/aaltoscicomp/sphinx-aaltoscicomp-branding/archive/master.zip
+
+``conf.py``::
+
+  extensions = [
+      'sphinx_aaltoscicomp_branding',
+  ]
+
+
 See also
 --------
 
